@@ -3,7 +3,7 @@
 A vision LLM reads receipt photos into clean, validated data. The extractor is **measured against human-labelled answers**, and simple checks then flag receipts that look wrong, duplicated or unusual.
 
 ## Live demo
-[Open the app](https://YOUR-APP-NAME.streamlit.app): upload a receipt photo (or pick a sample) and the result appears. A few reads work with the shared demo key; for more, paste your own free [Groq API key](https://console.groq.com/keys) in the sidebar.
+[Open the app](https://receipt-auditor-zpdg2exmzom6prgik79jcs.streamlit.app/): upload a receipt photo (or pick a sample) and the result appears. A few reads work with the shared demo key; for more, paste your own free [Groq API key](https://console.groq.com/keys) in the sidebar.
 
 ## Result
 
