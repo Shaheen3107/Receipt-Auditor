@@ -66,8 +66,8 @@ These checks **flag receipts for a human to look at**. They do not decide anythi
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/receipt-auditor.git
-cd receipt-auditor
+git clone https://github.com/Shaheen3107/Receipt-Auditor.git
+cd Receipt-Auditor
 
 python -m venv venv
 venv\Scripts\activate          # Windows
