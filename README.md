@@ -5,6 +5,9 @@ A vision LLM reads receipt photos into clean, validated data. The extractor is *
 ## Live demo
 [Open the app](https://receipt-auditor-zpdg2exmzom6prgik79jcs.streamlit.app/): upload a receipt photo (or pick a sample) and the result appears. A few reads work with the shared demo key; for more, paste your own free [Groq API key](https://console.groq.com/keys) in the sidebar.
 
+## 📸 Screenshot
+![Receipt_Auditor App](screenshot.png)
+
 ## Result
 
 On **50 randomly chosen receipts** from the CORD dataset (validation and test parts, receipts with a usable correct total), the extractor returned the **exact total on 50 of 50**.
